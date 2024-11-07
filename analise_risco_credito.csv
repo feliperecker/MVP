@@ -1,0 +1,1001 @@
+Idade,Renda Anual,Grau de Escolaridade,Tempo no Emprego,Dívida Atual,Histórico de Crédito,Categoria de Emprego,Risco de Crédito
+56,73261.73,Pós-Graduação,11,3857.26,5,Desempregado,Médio
+69,44247.05,Graduação,7,45558.41,3,Empresário,Alto
+46,46924.32,Ensino Médio,7,17743.04,7,Empresário,Alto
+32,57728.42,Ensino Médio,11,21238.58,8,Desempregado,Alto
+60,22007.12,Ensino Médio,32,10767.22,0,CLT,Alto
+25,52207.92,Graduação,25,29854.79,3,CLT,Alto
+38,41144.8,Ensino Médio,38,29740.16,3,Empresário,Alto
+56,52749.74,Graduação,27,18610.02,1,Empresário,Médio
+36,31976.21,Graduação,4,16651.74,5,Empresário,Alto
+40,109052.73,Graduação,7,44248.22,2,Desempregado,Alto
+28,79359.25,Pós-Graduação,24,19164.21,6,CLT,Alto
+28,87910.23,Ensino Médio,26,24675.05,4,Empresário,Alto
+41,98917.12,Ensino Médio,22,14165.24,3,Empresário,Médio
+53,69844.22,Graduação,29,39338.48,4,Autônomo,Alto
+57,28692.03,Graduação,22,19872.41,7,Desempregado,Alto
+41,73710.65,Ensino Médio,19,25680.55,2,Autônomo,Alto
+20,78684.11,Graduação,17,12667.86,6,CLT,Alto
+39,94543.95,Ensino Médio,17,49382.98,5,Autônomo,Alto
+19,63165.95,Pós-Graduação,1,14574.79,0,Autônomo,Médio
+41,32758.03,Graduação,3,38537.13,6,Autônomo,Alto
+61,48377.59,Ensino Médio,29,21374.78,6,Desempregado,Alto
+47,56308.23,Graduação,32,10310.87,0,CLT,Médio
+55,84591.72,Ensino Médio,35,39985.94,8,Autônomo,Alto
+19,77077.83,Ensino Médio,17,16680.34,5,Desempregado,Médio
+38,55609.67,Graduação,36,43259.67,1,CLT,Alto
+50,118651.52,Pós-Graduação,18,45762.86,4,Empresário,Alto
+29,80577.48,Ensino Médio,27,42991.19,3,Autônomo,Alto
+39,43722.68,Ensino Médio,39,1750.4,6,CLT,Alto
+61,30178.25,Ensino Médio,19,39368.67,7,Autônomo,Alto
+42,35285.91,Pós-Graduação,32,20566.97,0,Empresário,Alto
+66,44595.77,Pós-Graduação,11,43686.15,4,CLT,Alto
+44,36068.14,Graduação,14,31897.71,2,Desempregado,Alto
+59,38656.7,Pós-Graduação,38,41682.16,0,CLT,Alto
+45,48509.52,Graduação,1,24971.59,2,Desempregado,Alto
+33,37337.36,Graduação,28,26751.28,5,CLT,Alto
+32,109676.54,Pós-Graduação,9,7219.38,6,Desempregado,Alto
+64,28023.37,Graduação,1,39199.37,7,Empresário,Alto
+68,72451.14,Pós-Graduação,10,20969.48,3,Empresário,Alto
+61,61039.68,Graduação,12,25004.01,2,Empresário,Alto
+69,118237.86,Pós-Graduação,9,39254.89,4,CLT,Alto
+20,31203.89,Pós-Graduação,13,29942.27,8,Empresário,Alto
+54,59785.56,Graduação,17,10054.94,5,Autônomo,Médio
+68,116947.04,Ensino Médio,8,29511.63,8,Empresário,Alto
+24,106550.71,Graduação,38,20381.64,5,Desempregado,Alto
+38,101707.21,Pós-Graduação,27,23476.28,1,Desempregado,Alto
+26,45790.28,Ensino Médio,2,1415.56,4,Desempregado,Médio
+56,37088.76,Graduação,19,10501.47,8,CLT,Alto
+35,86864.32,Graduação,5,14051.9,7,Autônomo,Alto
+21,112937.6,Graduação,26,35648.0,6,Empresário,Alto
+42,75676.29,Ensino Médio,1,574.62,0,Autônomo,Médio
+31,77161.27,Pós-Graduação,28,20438.86,3,Autônomo,Alto
+67,47997.91,Graduação,37,46201.34,6,Desempregado,Alto
+26,96949.29,Graduação,2,5594.03,6,Desempregado,Alto
+43,38704.37,Graduação,15,25821.22,5,Desempregado,Alto
+19,52367.92,Graduação,29,39326.12,7,CLT,Alto
+37,62543.64,Graduação,39,47126.57,5,Autônomo,Alto
+45,70761.04,Pós-Graduação,1,37338.83,9,Autônomo,Alto
+64,44240.97,Pós-Graduação,16,36028.28,2,CLT,Alto
+24,31483.68,Graduação,11,41324.4,3,CLT,Alto
+61,81062.0,Ensino Médio,34,22310.06,2,CLT,Alto
+25,48863.06,Pós-Graduação,0,40292.23,0,Autônomo,Alto
+64,78123.82,Ensino Médio,14,398.22,9,Autônomo,Alto
+52,35436.27,Pós-Graduação,25,46228.05,4,Desempregado,Alto
+31,68114.01,Graduação,36,22165.33,0,Desempregado,Alto
+34,73258.94,Pós-Graduação,20,27669.01,0,Autônomo,Alto
+53,25182.35,Graduação,30,12744.11,1,Desempregado,Alto
+67,53660.43,Pós-Graduação,24,37126.54,3,CLT,Alto
+57,33441.47,Graduação,22,3831.79,5,Empresário,Alto
+21,26337.5,Graduação,23,43631.79,7,Desempregado,Alto
+19,118996.02,Graduação,37,41405.84,2,Autônomo,Alto
+23,52235.38,Graduação,27,10803.01,0,Desempregado,Médio
+59,100987.44,Ensino Médio,20,40466.22,2,Desempregado,Alto
+21,45464.07,Graduação,17,39317.89,2,Desempregado,Alto
+46,88150.27,Ensino Médio,35,31610.83,4,Empresário,Alto
+35,96022.79,Ensino Médio,34,18676.01,3,CLT,Médio
+43,79563.87,Graduação,8,13574.94,3,Autônomo,Médio
+61,67157.62,Ensino Médio,37,11589.18,8,Empresário,Alto
+51,61184.09,Pós-Graduação,29,15930.45,6,Autônomo,Alto
+27,54886.83,Graduação,33,45177.92,3,Autônomo,Alto
+53,112952.91,Ensino Médio,31,3882.04,2,Autônomo,Baixo
+31,103061.94,Graduação,2,41443.56,5,Empresário,Alto
+48,116502.69,Graduação,2,17444.5,2,CLT,Médio
+65,32429.72,Graduação,27,26079.97,5,Autônomo,Alto
+32,93086.75,Ensino Médio,14,39724.28,8,CLT,Alto
+25,113834.05,Pós-Graduação,22,44218.83,5,CLT,Alto
+31,38123.31,Pós-Graduação,39,17239.07,3,Desempregado,Alto
+40,26649.63,Ensino Médio,10,23092.17,4,Empresário,Alto
+57,94112.06,Graduação,31,20725.8,5,Empresário,Alto
+38,77447.31,Ensino Médio,35,662.55,2,Desempregado,Médio
+33,104182.88,Ensino Médio,32,14797.14,7,Desempregado,Alto
+62,33977.24,Ensino Médio,23,22959.46,3,CLT,Alto
+35,99526.73,Graduação,38,20554.68,7,Autônomo,Alto
+64,40162.73,Ensino Médio,33,36096.46,9,Empresário,Alto
+41,36365.59,Graduação,27,19240.18,9,Autônomo,Alto
+43,36426.58,Ensino Médio,36,24468.82,2,Autônomo,Alto
+42,101457.47,Pós-Graduação,6,21480.43,9,Desempregado,Alto
+62,86519.72,Ensino Médio,3,37031.31,6,Autônomo,Alto
+58,72306.54,Ensino Médio,36,43148.62,8,CLT,Alto
+46,55883.05,Pós-Graduação,0,26594.45,3,Desempregado,Alto
+32,107720.05,Graduação,0,39471.61,7,Autônomo,Alto
+62,59244.51,Graduação,19,14839.33,2,Desempregado,Médio
+18,101659.94,Ensino Médio,18,27068.48,6,CLT,Alto
+42,63913.49,Pós-Graduação,28,17261.5,2,CLT,Médio
+24,57694.44,Graduação,9,20710.05,6,Autônomo,Alto
+26,66267.98,Ensino Médio,17,36620.69,9,Desempregado,Alto
+41,50137.79,Pós-Graduação,27,44083.12,9,Autônomo,Alto
+18,94760.94,Graduação,34,6074.77,5,Autônomo,Médio
+61,70272.04,Graduação,30,31731.96,1,Desempregado,Alto
+25,43221.27,Pós-Graduação,26,29107.19,2,Autônomo,Alto
+41,109957.46,Pós-Graduação,10,5920.75,5,CLT,Médio
+28,58389.12,Pós-Graduação,37,10594.72,3,Desempregado,Médio
+68,74355.29,Pós-Graduação,4,15550.12,5,Desempregado,Médio
+34,110647.21,Ensino Médio,7,8346.55,0,Desempregado,Baixo
+25,82423.8,Pós-Graduação,33,12186.47,9,Desempregado,Alto
+52,31689.8,Graduação,11,13380.04,0,Autônomo,Alto
+52,113983.21,Graduação,37,16783.69,2,Autônomo,Médio
+50,82770.81,Ensino Médio,0,37469.52,7,CLT,Alto
+22,53490.56,Graduação,30,28595.61,7,Empresário,Alto
+59,33927.21,Graduação,3,49312.33,3,Empresário,Alto
+56,99402.52,Pós-Graduação,4,20736.79,5,CLT,Alto
+58,82007.28,Graduação,29,37693.25,7,Empresário,Alto
+45,73346.11,Ensino Médio,23,43573.42,6,CLT,Alto
+24,109389.26,Pós-Graduação,2,33948.92,6,Autônomo,Alto
+26,98859.72,Pós-Graduação,10,20593.24,3,Desempregado,Alto
+25,35167.49,Ensino Médio,3,37679.73,8,Desempregado,Alto
+29,51172.21,Pós-Graduação,25,10183.36,9,Autônomo,Alto
+51,44848.91,Pós-Graduação,26,16377.61,5,Desempregado,Médio
+50,94394.63,Ensino Médio,26,27334.26,2,Desempregado,Alto
+65,23353.24,Pós-Graduação,5,28770.47,4,Empresário,Alto
+40,76988.97,Ensino Médio,14,1107.07,4,Autônomo,Médio
+41,96245.87,Ensino Médio,29,47255.71,4,Empresário,Alto
+54,107676.56,Graduação,36,34831.36,7,Empresário,Alto
+52,54208.17,Graduação,36,24785.19,8,Desempregado,Alto
+61,102125.73,Pós-Graduação,36,46656.36,8,Desempregado,Alto
+57,31063.17,Pós-Graduação,34,21954.78,5,Autônomo,Alto
+39,104645.23,Ensino Médio,22,49021.78,5,Desempregado,Alto
+44,32748.87,Pós-Graduação,5,25614.24,8,Desempregado,Alto
+52,59728.73,Ensino Médio,3,5714.29,3,Autônomo,Médio
+18,99729.54,Ensino Médio,17,38240.05,5,Desempregado,Alto
+52,34991.74,Pós-Graduação,8,33944.89,3,Empresário,Alto
+54,42925.14,Ensino Médio,28,38649.34,0,Autônomo,Alto
+64,92225.26,Graduação,12,47572.1,6,Desempregado,Alto
+31,92003.65,Pós-Graduação,16,38824.47,9,CLT,Alto
+20,84114.76,Graduação,31,30566.83,5,Autônomo,Alto
+18,89394.84,Pós-Graduação,21,42865.45,8,Autônomo,Alto
+22,74272.44,Ensino Médio,3,33662.32,6,CLT,Alto
+43,45179.91,Pós-Graduação,4,20405.95,6,Desempregado,Alto
+31,54569.6,Graduação,36,44280.99,1,Desempregado,Alto
+56,38159.77,Ensino Médio,12,11095.02,8,Autônomo,Alto
+44,110845.06,Pós-Graduação,33,35732.06,9,Autônomo,Alto
+26,78339.18,Pós-Graduação,21,44078.17,8,Desempregado,Alto
+32,60085.14,Pós-Graduação,22,36565.83,5,Desempregado,Alto
+32,66200.58,Graduação,2,34863.77,2,Empresário,Alto
+43,114728.33,Graduação,33,37631.91,0,Autônomo,Alto
+59,35335.14,Pós-Graduação,31,23252.76,3,Autônomo,Alto
+30,78622.98,Ensino Médio,20,43708.53,2,CLT,Alto
+68,70588.87,Ensino Médio,20,10171.82,0,Empresário,Médio
+49,81145.42,Graduação,10,6369.32,2,Desempregado,Baixo
+56,21811.02,Ensino Médio,38,14275.44,3,Empresário,Alto
+66,107212.39,Graduação,3,26578.87,7,Desempregado,Alto
+69,113211.83,Pós-Graduação,0,25528.09,8,Desempregado,Alto
+49,76513.32,Graduação,27,41029.94,2,Empresário,Alto
+21,89665.08,Graduação,23,20228.43,5,Autônomo,Alto
+47,112249.94,Pós-Graduação,34,24217.22,9,Desempregado,Alto
+54,90723.86,Ensino Médio,12,668.38,4,Empresário,Médio
+40,35253.9,Graduação,33,20486.96,5,CLT,Alto
+56,77628.84,Graduação,10,32388.71,3,Empresário,Alto
+62,80671.5,Pós-Graduação,35,775.42,9,CLT,Alto
+32,62413.07,Ensino Médio,16,14044.1,5,Desempregado,Médio
+60,93644.42,Graduação,34,10397.82,6,Empresário,Alto
+46,113436.7,Pós-Graduação,17,2099.27,8,Empresário,Alto
+53,112556.85,Graduação,39,23963.0,9,CLT,Alto
+30,65083.94,Pós-Graduação,21,9086.16,6,Empresário,Alto
+49,31323.8,Ensino Médio,23,37154.08,5,Empresário,Alto
+24,118484.12,Ensino Médio,18,42396.39,0,Desempregado,Alto
+68,103889.81,Ensino Médio,36,27279.26,1,Empresário,Alto
+39,32466.27,Ensino Médio,38,49085.37,0,Autônomo,Alto
+45,112084.19,Graduação,20,22523.93,8,CLT,Alto
+19,106989.64,Graduação,7,25668.41,9,Empresário,Alto
+59,71883.81,Ensino Médio,27,49460.89,9,CLT,Alto
+62,79127.54,Ensino Médio,4,11577.42,8,CLT,Alto
+23,59900.27,Ensino Médio,16,47127.3,6,CLT,Alto
+45,25476.16,Graduação,36,2141.88,1,Empresário,Alto
+45,53519.72,Ensino Médio,35,22319.34,5,Empresário,Alto
+61,100285.34,Ensino Médio,18,3500.18,3,CLT,Médio
+61,20463.2,Ensino Médio,26,36461.74,0,Autônomo,Alto
+37,53349.92,Pós-Graduação,33,30420.45,0,CLT,Alto
+47,59816.87,Ensino Médio,10,35331.71,4,Autônomo,Alto
+28,73739.56,Pós-Graduação,11,18724.02,1,CLT,Médio
+45,111985.56,Pós-Graduação,20,18474.1,3,Desempregado,Médio
+42,54634.6,Ensino Médio,10,2265.96,0,CLT,Médio
+56,54695.32,Pós-Graduação,38,17497.25,3,CLT,Médio
+50,93750.12,Ensino Médio,27,46464.42,5,Empresário,Alto
+18,65221.79,Graduação,4,18961.33,9,Autônomo,Alto
+44,42460.48,Graduação,16,41568.39,3,Desempregado,Alto
+69,65243.95,Graduação,19,42116.28,0,Autônomo,Alto
+30,34085.7,Graduação,11,18662.06,6,Desempregado,Alto
+58,37638.7,Pós-Graduação,5,31599.43,1,CLT,Alto
+20,69836.78,Ensino Médio,16,4768.58,8,Empresário,Alto
+56,61892.54,Ensino Médio,18,5183.93,2,Empresário,Médio
+23,111484.59,Ensino Médio,25,2432.88,7,Autônomo,Alto
+25,56239.39,Graduação,31,29050.75,7,Empresário,Alto
+44,78058.84,Graduação,5,21303.55,2,Autônomo,Alto
+26,83226.43,Ensino Médio,35,27401.62,3,Autônomo,Alto
+54,21309.45,Graduação,37,26053.66,1,Desempregado,Alto
+50,86353.74,Ensino Médio,10,17510.15,3,Autônomo,Médio
+68,37803.6,Ensino Médio,32,33873.67,8,Desempregado,Alto
+59,116107.03,Ensino Médio,23,37925.09,1,Empresário,Alto
+61,34866.27,Ensino Médio,22,731.41,2,Autônomo,Alto
+41,61462.41,Ensino Médio,14,10362.11,3,Autônomo,Médio
+32,28534.97,Ensino Médio,26,35661.79,4,CLT,Alto
+49,119687.43,Ensino Médio,10,19331.01,0,Autônomo,Médio
+49,70219.5,Graduação,16,33124.2,6,Autônomo,Alto
+41,79538.5,Ensino Médio,13,17348.13,9,CLT,Alto
+58,26707.65,Ensino Médio,26,19537.76,6,CLT,Alto
+69,94996.05,Graduação,17,7933.94,8,Empresário,Alto
+66,40990.56,Graduação,27,12911.55,3,Autônomo,Médio
+66,109805.43,Graduação,3,30270.59,5,Empresário,Alto
+69,40513.96,Ensino Médio,6,21658.16,1,Empresário,Alto
+29,39068.77,Pós-Graduação,34,38715.13,3,CLT,Alto
+56,23654.97,Pós-Graduação,8,42629.25,1,Desempregado,Alto
+19,67206.69,Graduação,7,27082.32,9,Empresário,Alto
+20,76484.11,Pós-Graduação,16,37913.36,4,Desempregado,Alto
+66,26570.86,Graduação,16,15345.23,6,Autônomo,Alto
+54,97552.76,Ensino Médio,32,20748.56,0,CLT,Alto
+66,65328.88,Pós-Graduação,31,35638.88,9,Autônomo,Alto
+34,72439.03,Ensino Médio,7,19310.6,9,Autônomo,Alto
+66,64076.27,Pós-Graduação,18,29425.25,6,CLT,Alto
+19,60076.31,Ensino Médio,37,9268.64,9,Autônomo,Alto
+19,75964.03,Pós-Graduação,2,29988.57,5,CLT,Alto
+45,35524.02,Ensino Médio,4,43075.69,5,Desempregado,Alto
+40,38192.81,Ensino Médio,12,43431.98,7,Autônomo,Alto
+54,106178.56,Pós-Graduação,30,36217.22,7,CLT,Alto
+49,114611.55,Ensino Médio,15,37287.67,5,Empresário,Alto
+50,57330.93,Ensino Médio,31,27896.37,2,Autônomo,Alto
+18,47074.47,Ensino Médio,21,29233.4,4,Desempregado,Alto
+36,84399.95,Pós-Graduação,28,6682.53,1,CLT,Baixo
+19,60873.42,Pós-Graduação,21,22192.96,4,Autônomo,Alto
+61,22538.64,Ensino Médio,2,22538.81,8,Autônomo,Alto
+43,35615.26,Ensino Médio,9,47924.89,9,Autônomo,Alto
+49,91597.22,Pós-Graduação,20,21554.34,0,Desempregado,Alto
+23,85892.39,Pós-Graduação,15,27467.13,9,CLT,Alto
+49,22709.6,Ensino Médio,11,26662.57,4,Empresário,Alto
+21,42197.22,Ensino Médio,1,31838.09,5,Empresário,Alto
+28,43107.48,Ensino Médio,23,37411.64,6,Empresário,Alto
+34,87189.27,Graduação,34,11252.09,8,CLT,Alto
+55,21971.05,Pós-Graduação,29,26436.22,5,Empresário,Alto
+41,30410.86,Graduação,29,41295.89,4,Desempregado,Alto
+22,99991.61,Pós-Graduação,34,23155.74,6,CLT,Alto
+69,37854.47,Pós-Graduação,18,13922.88,0,Autônomo,Alto
+51,85274.61,Pós-Graduação,7,32735.45,4,Desempregado,Alto
+23,43818.28,Pós-Graduação,25,41188.37,1,Autônomo,Alto
+39,29944.14,Pós-Graduação,39,3157.01,3,Empresário,Alto
+28,44317.22,Pós-Graduação,6,38839.52,6,Desempregado,Alto
+65,92226.69,Pós-Graduação,29,41082.4,4,CLT,Alto
+33,105569.65,Graduação,6,23076.15,5,Desempregado,Alto
+50,103021.99,Ensino Médio,2,49165.28,1,Autônomo,Alto
+26,59718.35,Ensino Médio,0,39335.42,2,CLT,Alto
+23,86808.51,Graduação,35,38683.13,6,Desempregado,Alto
+33,40498.43,Graduação,24,37391.93,1,Desempregado,Alto
+46,49314.77,Graduação,36,7530.41,5,Desempregado,Médio
+20,109633.58,Graduação,0,10861.54,4,Desempregado,Médio
+37,21300.19,Pós-Graduação,14,23199.51,9,CLT,Alto
+53,28550.85,Ensino Médio,36,13200.22,0,Autônomo,Alto
+36,40788.63,Pós-Graduação,12,20762.05,9,Desempregado,Alto
+43,22653.22,Ensino Médio,39,44423.21,3,CLT,Alto
+20,38143.54,Ensino Médio,7,41216.34,1,Autônomo,Alto
+36,78304.16,Graduação,4,31501.99,3,Desempregado,Alto
+37,62142.46,Pós-Graduação,8,42906.02,0,Autônomo,Alto
+49,109267.17,Graduação,0,39188.62,1,Autônomo,Alto
+24,101744.36,Pós-Graduação,35,21449.25,7,CLT,Alto
+69,54181.74,Ensino Médio,34,10053.26,5,Autônomo,Médio
+58,45942.34,Graduação,1,25710.05,1,CLT,Alto
+50,57969.24,Graduação,39,36811.44,5,Desempregado,Alto
+57,79029.49,Ensino Médio,22,21820.98,9,Autônomo,Alto
+56,46806.36,Ensino Médio,8,33338.6,8,Autônomo,Alto
+35,82414.89,Ensino Médio,33,4716.37,6,Empresário,Alto
+57,60941.17,Graduação,13,37400.24,8,Desempregado,Alto
+18,75204.72,Pós-Graduação,3,40635.68,4,Desempregado,Alto
+28,63612.65,Graduação,29,35341.89,6,Empresário,Alto
+45,49446.58,Pós-Graduação,30,48363.18,6,Empresário,Alto
+42,114845.33,Graduação,37,41332.6,2,CLT,Alto
+67,96360.58,Graduação,10,45154.69,6,CLT,Alto
+40,34011.32,Ensino Médio,34,46678.55,0,Autônomo,Alto
+48,106846.8,Pós-Graduação,7,40067.4,8,Autônomo,Alto
+47,68743.12,Graduação,2,33712.94,9,Autônomo,Alto
+59,109455.22,Graduação,13,285.93,5,Autônomo,Médio
+52,99985.53,Ensino Médio,12,23291.29,4,CLT,Alto
+24,62521.35,Ensino Médio,31,28558.11,6,Desempregado,Alto
+33,22246.93,Pós-Graduação,33,15201.51,4,Autônomo,Alto
+43,46867.74,Graduação,18,15905.22,9,Desempregado,Alto
+65,74163.42,Pós-Graduação,37,48057.97,4,Autônomo,Alto
+69,83347.82,Graduação,15,44585.54,9,Empresário,Alto
+66,45788.77,Pós-Graduação,1,42458.95,6,Autônomo,Alto
+19,33935.61,Ensino Médio,39,20300.59,9,Autônomo,Alto
+18,103493.02,Graduação,16,684.93,6,Autônomo,Alto
+65,118440.22,Pós-Graduação,33,4011.11,2,CLT,Baixo
+29,72569.02,Ensino Médio,15,15609.82,2,Empresário,Médio
+22,37167.93,Ensino Médio,37,787.15,9,Autônomo,Alto
+54,47230.73,Pós-Graduação,1,857.49,2,Autônomo,Médio
+49,21839.07,Graduação,1,45830.17,5,Desempregado,Alto
+26,111429.88,Graduação,25,35307.93,5,Empresário,Alto
+58,31775.11,Ensino Médio,12,15447.8,2,Autônomo,Alto
+52,77651.65,Graduação,30,6632.23,2,Desempregado,Médio
+36,47405.52,Graduação,33,25581.79,7,Desempregado,Alto
+65,75417.8,Graduação,38,267.31,7,CLT,Alto
+33,85142.04,Ensino Médio,2,46920.69,6,Desempregado,Alto
+20,102974.18,Pós-Graduação,7,20740.76,9,Autônomo,Alto
+37,40642.13,Graduação,22,20116.75,3,CLT,Alto
+41,21099.58,Ensino Médio,13,19529.68,3,CLT,Alto
+50,33688.56,Ensino Médio,26,3466.42,2,Autônomo,Alto
+41,110001.86,Pós-Graduação,28,31916.11,4,Empresário,Alto
+69,107389.01,Graduação,38,36650.18,2,Desempregado,Alto
+28,79741.31,Graduação,38,33806.27,7,CLT,Alto
+66,80051.69,Pós-Graduação,0,6921.77,6,Empresário,Alto
+25,86503.67,Pós-Graduação,16,28942.01,2,Autônomo,Alto
+53,37537.13,Ensino Médio,29,28474.22,8,Desempregado,Alto
+55,111441.19,Ensino Médio,12,43420.54,4,Desempregado,Alto
+57,61877.05,Pós-Graduação,20,18956.38,8,CLT,Alto
+37,58313.85,Graduação,18,18574.3,6,Desempregado,Alto
+52,71891.77,Ensino Médio,18,30926.35,6,Desempregado,Alto
+65,24696.6,Ensino Médio,24,31653.63,5,Desempregado,Alto
+42,36628.34,Graduação,21,23464.26,1,Desempregado,Alto
+52,93803.36,Ensino Médio,30,22152.97,8,Autônomo,Alto
+42,28279.87,Graduação,16,24707.38,5,Empresário,Alto
+46,80315.21,Graduação,22,43052.26,7,Autônomo,Alto
+35,44534.91,Graduação,31,23058.35,0,Autônomo,Alto
+63,58929.56,Pós-Graduação,9,46996.59,4,CLT,Alto
+35,48869.37,Pós-Graduação,9,25200.19,0,Desempregado,Alto
+19,55567.27,Pós-Graduação,35,47460.03,9,Autônomo,Alto
+52,91904.59,Graduação,7,41641.6,7,Desempregado,Alto
+33,49712.17,Graduação,19,18121.57,7,Autônomo,Alto
+58,76640.46,Pós-Graduação,31,43182.07,0,Autônomo,Alto
+53,67605.04,Ensino Médio,13,5503.16,8,CLT,Alto
+50,86367.12,Graduação,27,46252.36,1,Empresário,Alto
+21,113682.97,Ensino Médio,23,31582.18,8,Empresário,Alto
+50,93257.21,Ensino Médio,14,2719.54,0,Autônomo,Baixo
+31,41494.04,Graduação,21,32212.84,9,CLT,Alto
+38,23118.31,Graduação,29,48712.38,8,Desempregado,Alto
+65,46226.4,Ensino Médio,3,3490.03,3,Desempregado,Médio
+37,79507.79,Ensino Médio,12,27734.39,8,Autônomo,Alto
+25,25142.58,Pós-Graduação,22,37389.72,6,Empresário,Alto
+24,69636.62,Pós-Graduação,7,40512.93,5,CLT,Alto
+20,79684.28,Graduação,17,20691.37,4,Empresário,Alto
+34,53424.39,Pós-Graduação,11,10208.33,8,Desempregado,Alto
+50,97091.22,Pós-Graduação,30,2117.11,1,Empresário,Baixo
+65,30659.83,Pós-Graduação,13,28986.31,1,Desempregado,Alto
+29,27513.78,Pós-Graduação,33,22645.55,8,CLT,Alto
+68,92818.88,Ensino Médio,17,47437.22,2,CLT,Alto
+39,69549.13,Graduação,33,3030.25,7,Autônomo,Alto
+39,88840.24,Pós-Graduação,10,34269.77,8,Autônomo,Alto
+63,63482.73,Ensino Médio,11,1248.31,7,Empresário,Alto
+47,44640.2,Ensino Médio,14,8571.71,3,CLT,Médio
+55,101910.23,Ensino Médio,30,22678.95,0,CLT,Alto
+55,99941.59,Pós-Graduação,28,22743.62,3,Autônomo,Alto
+62,89469.65,Pós-Graduação,25,34285.03,8,Desempregado,Alto
+68,47214.51,Graduação,17,45510.65,1,Empresário,Alto
+25,79023.07,Pós-Graduação,31,31951.61,2,Empresário,Alto
+44,56097.39,Pós-Graduação,21,47676.75,9,Autônomo,Alto
+44,29158.21,Ensino Médio,37,44080.78,7,CLT,Alto
+51,111731.36,Graduação,16,29224.99,5,Autônomo,Alto
+38,33681.86,Pós-Graduação,22,41689.6,7,Autônomo,Alto
+47,115023.74,Pós-Graduação,23,32128.88,6,Autônomo,Alto
+50,64600.58,Ensino Médio,7,3927.89,4,Autônomo,Médio
+45,38513.29,Ensino Médio,5,37028.24,8,Desempregado,Alto
+64,74190.09,Pós-Graduação,4,4745.42,3,Desempregado,Médio
+50,107294.58,Graduação,28,29704.14,5,CLT,Alto
+22,93222.49,Graduação,27,35132.01,1,Autônomo,Alto
+65,100656.11,Ensino Médio,10,3326.38,1,Desempregado,Baixo
+36,85878.34,Ensino Médio,0,11539.73,1,CLT,Médio
+21,89227.66,Pós-Graduação,18,45783.61,9,Autônomo,Alto
+52,104919.57,Ensino Médio,8,30815.72,6,Empresário,Alto
+66,44966.8,Pós-Graduação,26,12314.3,1,Desempregado,Médio
+34,68942.5,Graduação,33,34533.99,1,CLT,Alto
+61,42120.94,Graduação,3,29838.82,8,Empresário,Alto
+45,118766.8,Pós-Graduação,35,25078.78,6,Autônomo,Alto
+47,114405.93,Ensino Médio,17,48809.35,2,Autônomo,Alto
+46,23942.68,Graduação,14,34172.69,2,Autônomo,Alto
+63,90557.52,Ensino Médio,12,18772.06,6,Desempregado,Alto
+23,112524.83,Graduação,18,40003.67,4,CLT,Alto
+52,38057.53,Pós-Graduação,5,44229.16,9,Empresário,Alto
+58,76794.52,Pós-Graduação,11,6261.03,5,CLT,Médio
+54,111548.83,Pós-Graduação,36,10027.65,7,Desempregado,Alto
+41,23394.6,Graduação,16,10811.35,8,CLT,Alto
+46,89742.03,Ensino Médio,22,34560.59,0,Desempregado,Alto
+66,49734.9,Ensino Médio,25,30151.98,2,Autônomo,Alto
+63,112439.62,Ensino Médio,28,30949.58,6,Empresário,Alto
+48,117105.82,Graduação,32,47038.66,5,Autônomo,Alto
+52,114426.65,Graduação,26,38795.58,6,CLT,Alto
+50,67421.42,Graduação,24,6396.85,7,Autônomo,Alto
+69,106204.27,Graduação,9,17375.35,5,Empresário,Médio
+38,104454.94,Graduação,22,21769.68,2,Autônomo,Alto
+49,51910.05,Ensino Médio,20,19798.08,1,Empresário,Médio
+40,102891.55,Graduação,20,33465.43,6,Empresário,Alto
+50,23700.76,Graduação,12,44594.66,0,Autônomo,Alto
+20,79626.99,Ensino Médio,36,15302.57,2,Desempregado,Médio
+35,43000.88,Graduação,32,27593.86,3,CLT,Alto
+42,32056.69,Ensino Médio,23,39470.47,0,Desempregado,Alto
+59,27695.32,Ensino Médio,10,20810.9,4,Desempregado,Alto
+48,89628.88,Pós-Graduação,16,8405.91,9,Autônomo,Alto
+20,53987.5,Pós-Graduação,3,23747.55,2,CLT,Alto
+57,92476.68,Pós-Graduação,24,2761.13,1,CLT,Baixo
+63,26535.63,Pós-Graduação,29,47119.17,2,Desempregado,Alto
+41,51529.03,Graduação,8,3741.06,7,Autônomo,Alto
+67,73949.13,Pós-Graduação,20,21922.84,5,CLT,Alto
+49,99072.32,Ensino Médio,19,26494.06,6,Desempregado,Alto
+64,51875.25,Graduação,18,49265.19,5,CLT,Alto
+39,82589.14,Pós-Graduação,18,8301.09,5,Autônomo,Médio
+40,108597.77,Ensino Médio,11,5721.58,2,Autônomo,Baixo
+19,81586.32,Graduação,36,435.31,7,Autônomo,Alto
+44,43295.95,Graduação,16,7778.57,6,CLT,Alto
+59,22440.08,Pós-Graduação,36,10363.65,6,Empresário,Alto
+19,107009.89,Graduação,38,31529.05,5,CLT,Alto
+43,22126.94,Ensino Médio,27,10985.34,4,Empresário,Alto
+34,107470.17,Graduação,34,1026.04,9,Autônomo,Alto
+57,72893.71,Ensino Médio,17,41330.92,7,Desempregado,Alto
+50,113906.77,Graduação,13,18279.79,4,Empresário,Médio
+26,99878.32,Pós-Graduação,34,17684.83,8,Autônomo,Alto
+60,119793.41,Ensino Médio,6,15123.95,8,Autônomo,Alto
+65,55071.18,Graduação,12,48768.66,0,Empresário,Alto
+56,96718.83,Graduação,17,8505.77,5,Desempregado,Médio
+46,60193.09,Graduação,36,44911.9,6,Autônomo,Alto
+59,67987.56,Ensino Médio,12,38840.17,2,Empresário,Alto
+43,82750.55,Ensino Médio,35,3824.0,6,Desempregado,Alto
+52,107367.71,Ensino Médio,30,49336.46,6,Desempregado,Alto
+67,118408.35,Pós-Graduação,1,13568.3,1,Autônomo,Médio
+42,96827.34,Pós-Graduação,15,4929.15,6,CLT,Alto
+41,61776.68,Ensino Médio,8,41465.71,0,CLT,Alto
+30,62135.7,Graduação,8,35333.78,4,Autônomo,Alto
+24,93758.23,Pós-Graduação,37,30860.94,8,Desempregado,Alto
+53,43877.71,Ensino Médio,10,7799.04,6,Autônomo,Alto
+62,31047.41,Graduação,21,23924.81,6,Empresário,Alto
+37,55462.22,Pós-Graduação,32,39027.8,1,CLT,Alto
+18,48723.9,Graduação,35,15181.2,7,Empresário,Alto
+25,49630.81,Graduação,22,15584.49,2,Autônomo,Médio
+63,43360.78,Graduação,33,157.05,7,Autônomo,Alto
+33,24209.32,Graduação,8,8712.17,2,Desempregado,Alto
+31,21787.39,Pós-Graduação,23,43770.28,9,Desempregado,Alto
+29,118772.24,Pós-Graduação,7,22087.32,6,Desempregado,Alto
+68,62777.31,Pós-Graduação,6,49211.72,1,Empresário,Alto
+40,58432.66,Ensino Médio,35,19785.4,3,Desempregado,Médio
+32,87964.73,Pós-Graduação,17,35759.32,5,Autônomo,Alto
+45,41825.39,Graduação,2,14095.95,8,Desempregado,Alto
+51,114996.12,Pós-Graduação,27,18190.48,4,CLT,Médio
+19,98634.5,Graduação,5,9536.3,8,Desempregado,Alto
+49,28941.1,Ensino Médio,20,17353.12,4,Empresário,Alto
+40,61758.08,Graduação,27,27361.88,9,CLT,Alto
+39,107911.83,Graduação,39,49588.64,7,CLT,Alto
+68,114473.2,Graduação,0,33210.09,0,CLT,Alto
+42,66740.15,Ensino Médio,35,9962.3,6,Empresário,Alto
+39,81341.14,Pós-Graduação,20,2248.07,3,Autônomo,Médio
+39,36703.39,Pós-Graduação,34,6317.82,4,Desempregado,Alto
+66,119116.86,Ensino Médio,12,28127.76,5,CLT,Alto
+69,43167.17,Graduação,9,38258.02,4,CLT,Alto
+59,114273.18,Pós-Graduação,9,47020.96,0,CLT,Alto
+23,84964.66,Ensino Médio,12,791.16,8,Autônomo,Alto
+32,80773.68,Pós-Graduação,36,26138.01,1,Autônomo,Alto
+60,71268.85,Ensino Médio,37,23543.37,8,Empresário,Alto
+54,43066.98,Graduação,23,32802.75,9,Autônomo,Alto
+50,37652.8,Pós-Graduação,1,27978.94,1,Desempregado,Alto
+25,42048.62,Ensino Médio,21,34351.96,8,Empresário,Alto
+61,38643.83,Pós-Graduação,16,32904.13,5,Empresário,Alto
+61,97958.45,Pós-Graduação,35,5850.59,8,Desempregado,Alto
+22,55012.53,Pós-Graduação,13,39985.9,5,Desempregado,Alto
+56,25784.27,Pós-Graduação,9,6161.63,5,Desempregado,Alto
+21,116910.26,Ensino Médio,34,34926.53,1,Empresário,Alto
+23,108378.59,Graduação,24,20807.27,7,Empresário,Alto
+62,112775.23,Ensino Médio,2,25692.54,2,Empresário,Alto
+49,119490.78,Ensino Médio,37,45164.9,6,Desempregado,Alto
+69,37389.52,Ensino Médio,16,44494.19,4,Desempregado,Alto
+47,59624.2,Graduação,11,40892.82,2,CLT,Alto
+64,95823.85,Pós-Graduação,23,25507.42,0,Autônomo,Alto
+52,89602.06,Pós-Graduação,28,36811.99,7,CLT,Alto
+57,35389.59,Pós-Graduação,24,25644.85,2,Desempregado,Alto
+69,101583.31,Graduação,35,43480.3,1,Empresário,Alto
+33,42444.06,Pós-Graduação,25,20138.79,0,Desempregado,Alto
+30,42381.76,Graduação,37,48511.77,3,Autônomo,Alto
+67,73697.44,Pós-Graduação,0,46616.14,7,CLT,Alto
+59,79293.99,Pós-Graduação,19,37080.13,2,CLT,Alto
+47,78008.62,Ensino Médio,27,13970.79,0,Empresário,Médio
+36,29148.68,Graduação,15,6582.68,3,CLT,Alto
+34,107746.09,Ensino Médio,16,42735.17,8,CLT,Alto
+36,46560.0,Ensino Médio,39,8265.11,0,Desempregado,Médio
+45,32951.49,Ensino Médio,27,42713.04,1,CLT,Alto
+43,108874.81,Graduação,11,24538.25,8,CLT,Alto
+54,115565.15,Graduação,26,20327.84,1,CLT,Alto
+43,106212.76,Pós-Graduação,29,45159.54,2,Empresário,Alto
+40,100951.61,Ensino Médio,33,30192.55,6,Empresário,Alto
+26,85524.2,Pós-Graduação,36,28830.7,2,Desempregado,Alto
+29,75085.74,Ensino Médio,5,27938.3,8,CLT,Alto
+18,28698.68,Graduação,6,18558.48,5,Empresário,Alto
+18,60845.32,Graduação,31,39282.16,2,Empresário,Alto
+64,57268.85,Graduação,31,12639.92,8,Desempregado,Alto
+51,45975.38,Ensino Médio,24,46944.75,0,Autônomo,Alto
+49,92342.01,Graduação,32,44699.26,9,CLT,Alto
+65,69587.57,Ensino Médio,6,16874.02,2,Empresário,Médio
+42,28104.62,Pós-Graduação,11,36473.19,0,Desempregado,Alto
+57,42018.32,Ensino Médio,15,28661.16,1,Desempregado,Alto
+62,88325.88,Pós-Graduação,15,16882.47,7,Desempregado,Alto
+18,27613.09,Ensino Médio,35,49426.08,6,Empresário,Alto
+33,105120.69,Pós-Graduação,12,1261.87,1,CLT,Baixo
+56,69514.65,Graduação,6,12632.3,1,Autônomo,Médio
+22,68058.66,Pós-Graduação,35,26003.7,8,CLT,Alto
+39,79240.78,Graduação,8,26097.65,5,Desempregado,Alto
+46,102468.1,Graduação,31,29446.65,4,Desempregado,Alto
+20,54780.92,Pós-Graduação,10,37583.81,9,Autônomo,Alto
+29,87801.62,Ensino Médio,7,31173.89,5,CLT,Alto
+43,76573.2,Ensino Médio,32,30014.07,8,Desempregado,Alto
+33,46702.83,Ensino Médio,22,2675.72,6,Desempregado,Alto
+68,107863.0,Ensino Médio,24,18826.51,9,CLT,Alto
+54,99742.6,Ensino Médio,7,11602.79,9,Desempregado,Alto
+39,85845.18,Graduação,21,13268.51,8,CLT,Alto
+46,105058.17,Ensino Médio,3,27716.87,3,Desempregado,Alto
+31,106729.42,Graduação,39,9975.27,1,CLT,Baixo
+45,90836.3,Graduação,2,14697.46,7,Autônomo,Alto
+22,103701.33,Graduação,28,11854.24,3,Desempregado,Médio
+64,89747.15,Pós-Graduação,28,47425.15,8,Autônomo,Alto
+66,88014.08,Pós-Graduação,33,47233.29,3,Desempregado,Alto
+47,81861.14,Graduação,33,30497.08,7,Desempregado,Alto
+63,95271.66,Pós-Graduação,27,46226.12,8,Empresário,Alto
+69,35860.51,Ensino Médio,12,39290.63,8,CLT,Alto
+22,108087.08,Ensino Médio,14,29497.39,9,Autônomo,Alto
+29,107184.35,Graduação,22,321.76,3,Autônomo,Médio
+33,22924.73,Ensino Médio,25,38625.81,0,Autônomo,Alto
+43,102581.68,Graduação,3,35124.42,2,CLT,Alto
+43,32886.99,Graduação,25,30762.68,8,Empresário,Alto
+65,53511.89,Ensino Médio,39,38021.22,3,Autônomo,Alto
+38,94350.83,Pós-Graduação,8,25646.11,4,CLT,Alto
+56,36075.99,Ensino Médio,4,35204.16,6,Desempregado,Alto
+53,101796.7,Ensino Médio,31,46758.6,4,Autônomo,Alto
+50,103213.42,Graduação,19,18790.25,3,Autônomo,Médio
+47,70746.77,Graduação,10,35406.09,1,Empresário,Alto
+54,20638.59,Graduação,14,23784.39,1,Autônomo,Alto
+40,48703.81,Graduação,31,33719.98,3,Autônomo,Alto
+27,81692.69,Pós-Graduação,27,38144.67,9,Desempregado,Alto
+22,118118.62,Pós-Graduação,21,2272.63,9,CLT,Alto
+53,83181.35,Pós-Graduação,16,32330.02,8,CLT,Alto
+51,45980.36,Graduação,25,11337.06,7,Empresário,Alto
+69,83400.57,Graduação,6,33501.63,2,Desempregado,Alto
+48,73998.54,Graduação,25,23416.51,8,CLT,Alto
+27,97984.54,Pós-Graduação,24,38677.64,4,Desempregado,Alto
+36,30698.06,Graduação,9,6170.04,2,CLT,Alto
+49,96102.79,Ensino Médio,18,31316.12,4,Desempregado,Alto
+18,74126.66,Ensino Médio,10,13923.54,9,Empresário,Alto
+22,116299.2,Graduação,12,42649.1,3,Autônomo,Alto
+62,54187.22,Ensino Médio,7,46419.18,7,Empresário,Alto
+21,83262.19,Ensino Médio,39,49819.91,4,CLT,Alto
+33,113202.81,Pós-Graduação,3,39800.37,9,Empresário,Alto
+41,30250.97,Graduação,30,37686.7,7,Autônomo,Alto
+33,113722.85,Graduação,27,10775.04,8,Empresário,Alto
+19,88788.57,Pós-Graduação,10,16800.35,3,CLT,Médio
+66,26783.71,Ensino Médio,0,23284.13,6,CLT,Alto
+45,50096.36,Ensino Médio,37,38669.05,1,Empresário,Alto
+49,90817.21,Graduação,23,45748.29,5,Autônomo,Alto
+44,26735.06,Ensino Médio,30,9456.96,7,Empresário,Alto
+37,78217.05,Pós-Graduação,25,46118.37,6,Autônomo,Alto
+41,54588.31,Pós-Graduação,4,34781.23,6,Desempregado,Alto
+29,82091.55,Graduação,19,30538.54,7,Autônomo,Alto
+67,24574.2,Pós-Graduação,10,9992.06,6,Desempregado,Alto
+52,107153.68,Pós-Graduação,32,2776.25,4,Empresário,Médio
+50,117348.9,Graduação,37,28423.24,6,Autônomo,Alto
+50,116887.79,Pós-Graduação,26,32575.78,9,Desempregado,Alto
+68,94965.18,Pós-Graduação,33,10539.07,2,Desempregado,Médio
+60,33008.62,Pós-Graduação,14,27822.81,4,Desempregado,Alto
+54,95826.32,Ensino Médio,31,42824.67,6,CLT,Alto
+29,22458.69,Graduação,20,41753.3,8,Empresário,Alto
+20,22212.36,Graduação,4,46367.76,1,Desempregado,Alto
+18,52361.02,Graduação,5,18294.29,3,Autônomo,Médio
+50,68864.32,Ensino Médio,37,15902.48,6,Desempregado,Alto
+57,97040.74,Ensino Médio,21,37471.3,0,CLT,Alto
+27,88329.54,Graduação,17,21555.62,1,Empresário,Alto
+60,64590.27,Ensino Médio,13,4377.43,8,CLT,Alto
+61,47362.67,Graduação,9,14140.06,9,CLT,Alto
+46,119712.45,Ensino Médio,12,20929.11,6,CLT,Alto
+30,62618.13,Pós-Graduação,30,14625.82,9,Autônomo,Alto
+29,65138.7,Pós-Graduação,29,16610.28,6,Empresário,Alto
+48,36362.38,Graduação,2,14688.8,5,Empresário,Alto
+63,99480.95,Ensino Médio,29,2074.96,2,Autônomo,Baixo
+19,89368.22,Ensino Médio,5,31854.74,9,Empresário,Alto
+68,42076.96,Pós-Graduação,28,29864.62,2,CLT,Alto
+67,28238.1,Pós-Graduação,7,32669.17,1,Empresário,Alto
+52,88049.93,Ensino Médio,32,9615.49,5,Autônomo,Médio
+40,85451.12,Ensino Médio,16,14782.73,3,CLT,Médio
+34,47325.95,Ensino Médio,10,30980.8,4,Autônomo,Alto
+43,115086.36,Ensino Médio,12,29981.38,2,Desempregado,Alto
+25,35105.79,Ensino Médio,10,25316.52,5,CLT,Alto
+46,63233.48,Ensino Médio,30,17520.66,2,CLT,Médio
+43,114361.59,Graduação,27,45646.55,7,Empresário,Alto
+27,61972.73,Ensino Médio,5,16988.51,8,CLT,Alto
+43,83852.59,Pós-Graduação,15,22780.96,3,Autônomo,Alto
+51,59759.44,Graduação,3,33905.69,8,Empresário,Alto
+68,47421.52,Ensino Médio,34,27151.07,6,Desempregado,Alto
+58,118397.76,Pós-Graduação,25,17344.3,2,Autônomo,Médio
+24,60933.4,Graduação,11,21782.24,6,Desempregado,Alto
+21,109409.92,Pós-Graduação,10,39724.04,0,Desempregado,Alto
+67,42995.46,Ensino Médio,36,13906.46,2,Desempregado,Médio
+62,41310.47,Ensino Médio,24,7112.76,5,CLT,Médio
+28,23113.41,Ensino Médio,17,15658.16,3,Autônomo,Alto
+46,85166.68,Ensino Médio,18,42476.71,6,Autônomo,Alto
+53,56852.63,Graduação,22,4449.49,2,CLT,Médio
+42,106435.82,Graduação,37,49584.8,0,Empresário,Alto
+38,67320.99,Pós-Graduação,17,27050.14,8,Desempregado,Alto
+53,116819.34,Ensino Médio,25,49242.29,5,Autônomo,Alto
+27,38552.55,Pós-Graduação,5,46949.82,7,CLT,Alto
+54,106862.32,Graduação,3,22640.69,2,Desempregado,Alto
+26,97659.69,Ensino Médio,28,9924.55,7,Empresário,Alto
+41,97092.18,Ensino Médio,33,8244.24,1,Empresário,Baixo
+52,104478.32,Graduação,16,11999.47,3,Desempregado,Médio
+66,96102.4,Graduação,15,35506.63,2,Empresário,Alto
+52,82622.03,Graduação,1,13647.5,9,Autônomo,Alto
+65,33124.49,Graduação,33,17071.26,0,Autônomo,Alto
+53,23252.62,Graduação,7,22438.94,6,Autônomo,Alto
+35,112084.78,Ensino Médio,12,45661.63,9,Empresário,Alto
+66,81665.03,Graduação,7,9469.67,1,Autônomo,Baixo
+56,99653.73,Ensino Médio,29,251.33,3,CLT,Médio
+49,68152.24,Ensino Médio,31,3004.82,8,Autônomo,Alto
+41,31730.82,Graduação,35,45238.32,5,Autônomo,Alto
+40,32518.58,Graduação,29,32375.82,7,Empresário,Alto
+49,88556.53,Ensino Médio,0,13652.03,1,Autônomo,Médio
+54,63030.59,Graduação,38,8859.63,6,Desempregado,Alto
+29,40052.47,Graduação,16,14713.34,5,CLT,Médio
+66,69159.45,Graduação,19,5739.85,8,Empresário,Alto
+30,26420.89,Pós-Graduação,23,47076.65,6,CLT,Alto
+40,78197.14,Ensino Médio,21,39210.31,0,Desempregado,Alto
+42,46899.34,Pós-Graduação,28,23119.56,7,Empresário,Alto
+52,99755.91,Graduação,21,43248.13,9,Empresário,Alto
+58,51036.2,Pós-Graduação,8,12472.91,2,Autônomo,Médio
+47,65522.01,Graduação,36,35856.03,1,CLT,Alto
+34,21162.05,Pós-Graduação,9,42806.62,2,Desempregado,Alto
+66,27244.69,Graduação,35,17838.44,5,Desempregado,Alto
+37,59249.36,Pós-Graduação,36,37873.22,2,Empresário,Alto
+65,67993.88,Pós-Graduação,27,14753.62,9,Autônomo,Alto
+42,80002.05,Pós-Graduação,27,14942.86,4,Empresário,Médio
+39,49166.26,Ensino Médio,20,5352.86,5,Empresário,Médio
+30,89498.19,Pós-Graduação,23,22002.9,7,Empresário,Alto
+36,106012.24,Ensino Médio,39,36485.6,6,Empresário,Alto
+66,97985.1,Graduação,1,47011.04,7,Desempregado,Alto
+53,23961.88,Pós-Graduação,7,30189.85,2,Desempregado,Alto
+29,68050.69,Graduação,26,43156.78,3,Empresário,Alto
+58,30493.02,Graduação,21,41124.73,5,Empresário,Alto
+36,44204.5,Pós-Graduação,36,8667.15,6,Autônomo,Alto
+29,118666.26,Ensino Médio,26,24290.87,8,Empresário,Alto
+26,34249.55,Pós-Graduação,28,5846.18,0,Desempregado,Alto
+24,69888.82,Graduação,2,34107.66,7,CLT,Alto
+45,81815.57,Graduação,12,47494.98,7,Desempregado,Alto
+31,90246.5,Pós-Graduação,9,6854.47,5,Autônomo,Médio
+48,75964.87,Ensino Médio,35,36694.16,3,Desempregado,Alto
+69,20977.08,Ensino Médio,8,31611.91,2,CLT,Alto
+36,52646.13,Graduação,26,29180.25,2,Empresário,Alto
+64,71771.16,Graduação,33,19506.01,5,CLT,Médio
+33,28786.65,Ensino Médio,0,17756.58,7,Empresário,Alto
+22,55062.69,Pós-Graduação,31,2262.46,6,Empresário,Alto
+52,23320.31,Graduação,24,10895.44,0,Desempregado,Alto
+29,27857.85,Ensino Médio,28,758.84,5,Desempregado,Alto
+42,59692.33,Graduação,6,29070.86,6,Desempregado,Alto
+69,33271.58,Pós-Graduação,2,5292.66,6,Autônomo,Alto
+38,76754.08,Ensino Médio,19,43650.97,8,Desempregado,Alto
+53,88946.5,Graduação,19,26157.15,9,Autônomo,Alto
+40,100058.67,Pós-Graduação,29,34984.5,4,Desempregado,Alto
+33,40015.02,Graduação,34,20542.85,0,Empresário,Alto
+56,36748.26,Pós-Graduação,34,28028.99,1,Autônomo,Alto
+62,30456.78,Pós-Graduação,38,47132.96,3,CLT,Alto
+59,83643.02,Ensino Médio,26,4136.7,4,Autônomo,Médio
+56,90647.57,Pós-Graduação,25,12696.89,8,Autônomo,Alto
+31,23158.61,Graduação,13,38999.42,0,CLT,Alto
+48,113621.22,Pós-Graduação,16,4936.86,2,Autônomo,Baixo
+22,25197.13,Pós-Graduação,17,3783.06,4,Empresário,Alto
+52,74129.63,Ensino Médio,28,18077.07,2,Desempregado,Médio
+40,90906.05,Pós-Graduação,19,4608.4,3,CLT,Médio
+46,107096.91,Pós-Graduação,26,29253.92,2,Desempregado,Alto
+60,91408.69,Graduação,17,11313.76,3,Empresário,Médio
+28,100172.81,Ensino Médio,3,44784.9,0,CLT,Alto
+35,53945.02,Ensino Médio,0,39175.0,7,Desempregado,Alto
+64,101482.51,Ensino Médio,0,34985.26,3,Desempregado,Alto
+29,28011.48,Pós-Graduação,25,30847.2,6,Empresário,Alto
+26,109481.67,Ensino Médio,19,43173.29,1,Desempregado,Alto
+27,74759.24,Pós-Graduação,22,11153.1,1,Empresário,Médio
+61,101729.78,Pós-Graduação,9,43655.44,5,Autônomo,Alto
+34,65231.83,Graduação,10,39474.61,1,Empresário,Alto
+55,84357.77,Graduação,4,37408.04,5,Autônomo,Alto
+24,72640.27,Graduação,0,28062.78,1,CLT,Alto
+63,93158.95,Graduação,16,12312.21,3,Desempregado,Médio
+30,28163.0,Graduação,21,21177.4,6,Empresário,Alto
+57,26035.21,Pós-Graduação,33,39678.53,7,Empresário,Alto
+59,44710.32,Pós-Graduação,28,1588.92,2,Desempregado,Médio
+26,35954.47,Ensino Médio,3,39102.54,8,Desempregado,Alto
+67,107178.36,Pós-Graduação,4,12003.54,1,CLT,Médio
+44,41921.4,Pós-Graduação,10,7215.46,7,CLT,Alto
+19,117586.53,Graduação,20,5785.07,7,Empresário,Alto
+22,53689.58,Pós-Graduação,34,1362.5,3,CLT,Médio
+46,38211.79,Graduação,11,26179.32,0,Autônomo,Alto
+54,98969.85,Ensino Médio,25,10912.99,0,CLT,Médio
+55,85870.78,Ensino Médio,18,49471.59,1,CLT,Alto
+36,69819.57,Pós-Graduação,6,28721.84,8,Empresário,Alto
+25,75536.36,Ensino Médio,6,6894.26,1,Autônomo,Médio
+65,91920.18,Pós-Graduação,25,34438.13,1,CLT,Alto
+62,42845.47,Ensino Médio,39,44887.18,5,Autônomo,Alto
+18,119633.39,Graduação,4,37258.97,6,Autônomo,Alto
+39,117479.32,Graduação,20,3821.99,6,Autônomo,Alto
+69,85032.57,Graduação,13,44794.21,8,Desempregado,Alto
+34,39954.25,Graduação,3,39696.47,5,Desempregado,Alto
+24,88022.82,Pós-Graduação,22,7915.2,7,Desempregado,Alto
+42,27219.84,Ensino Médio,19,2589.29,5,Desempregado,Alto
+62,23065.25,Pós-Graduação,14,27865.53,1,Empresário,Alto
+21,45768.29,Graduação,28,7801.79,0,CLT,Médio
+53,66262.3,Pós-Graduação,7,41729.55,4,Desempregado,Alto
+23,106827.25,Ensino Médio,18,17916.73,8,Empresário,Alto
+48,92716.91,Pós-Graduação,38,45644.62,7,CLT,Alto
+36,94270.65,Ensino Médio,27,28284.41,3,Desempregado,Alto
+61,62549.33,Pós-Graduação,26,9133.62,4,CLT,Médio
+56,54593.5,Ensino Médio,3,6979.94,4,Desempregado,Médio
+44,57103.88,Ensino Médio,14,28823.62,5,Empresário,Alto
+27,118764.96,Graduação,34,38094.18,2,Autônomo,Alto
+43,24010.92,Ensino Médio,36,39075.28,4,Autônomo,Alto
+36,106703.15,Graduação,0,13787.87,1,CLT,Médio
+56,77867.54,Graduação,2,10212.34,9,Empresário,Alto
+20,63861.54,Graduação,23,837.82,0,Autônomo,Médio
+62,92525.77,Pós-Graduação,26,33959.96,0,Desempregado,Alto
+30,68666.89,Pós-Graduação,39,3828.41,9,Autônomo,Alto
+67,107342.32,Pós-Graduação,35,21038.06,6,CLT,Alto
+45,110070.19,Pós-Graduação,33,30084.11,1,CLT,Alto
+37,62172.09,Ensino Médio,28,46855.45,3,Empresário,Alto
+45,47682.78,Ensino Médio,23,15590.11,4,CLT,Médio
+25,79235.03,Pós-Graduação,23,12488.61,6,Autônomo,Alto
+58,111236.33,Ensino Médio,3,32708.01,1,Autônomo,Alto
+56,41066.22,Ensino Médio,2,30961.95,5,Autônomo,Alto
+18,82296.66,Graduação,33,16605.49,0,Autônomo,Médio
+20,83156.02,Graduação,22,46405.09,6,Empresário,Alto
+30,93311.3,Graduação,22,42243.12,8,Desempregado,Alto
+45,33156.77,Graduação,4,11199.13,4,Desempregado,Alto
+66,91582.5,Ensino Médio,30,11957.13,4,Empresário,Médio
+42,110903.25,Pós-Graduação,5,25615.02,3,CLT,Alto
+50,37968.31,Ensino Médio,36,38678.61,2,Desempregado,Alto
+55,43754.33,Ensino Médio,9,2202.02,8,CLT,Alto
+23,117139.51,Ensino Médio,39,34666.76,4,Desempregado,Alto
+61,38097.7,Graduação,6,32411.79,7,CLT,Alto
+62,105438.51,Graduação,38,11574.0,8,Empresário,Alto
+49,69227.79,Graduação,37,34067.65,4,Autônomo,Alto
+62,44723.11,Pós-Graduação,20,47009.16,9,CLT,Alto
+64,107074.99,Ensino Médio,19,2339.29,8,Autônomo,Alto
+38,64530.53,Pós-Graduação,2,15982.6,1,CLT,Médio
+33,71481.74,Graduação,21,21908.84,8,CLT,Alto
+38,55923.34,Pós-Graduação,3,44963.02,3,CLT,Alto
+28,79295.09,Ensino Médio,27,48113.07,5,CLT,Alto
+54,36352.39,Ensino Médio,11,22205.76,5,CLT,Alto
+53,59108.15,Graduação,37,37501.42,5,Autônomo,Alto
+52,116941.23,Graduação,35,26583.05,1,CLT,Alto
+36,45813.34,Pós-Graduação,4,26889.15,6,Autônomo,Alto
+37,85673.67,Graduação,12,13904.98,5,Empresário,Médio
+35,52519.01,Graduação,22,10847.81,0,Desempregado,Médio
+64,97347.31,Ensino Médio,29,14400.27,1,CLT,Médio
+58,33087.37,Graduação,36,27816.4,6,Desempregado,Alto
+66,116982.1,Graduação,24,1457.76,0,Autônomo,Baixo
+31,65378.95,Ensino Médio,26,45362.45,0,Empresário,Alto
+32,43605.05,Ensino Médio,13,7814.19,0,Empresário,Médio
+48,27349.67,Pós-Graduação,35,11004.43,7,Empresário,Alto
+18,36975.79,Graduação,38,25913.81,3,Desempregado,Alto
+20,71977.39,Ensino Médio,15,35505.74,3,Autônomo,Alto
+33,53700.32,Pós-Graduação,21,4786.45,1,CLT,Médio
+40,102888.34,Pós-Graduação,20,15884.73,0,CLT,Médio
+28,63088.75,Graduação,20,48433.73,9,Autônomo,Alto
+29,44871.43,Graduação,7,13117.15,8,Desempregado,Alto
+27,81714.5,Pós-Graduação,15,15652.51,6,CLT,Alto
+49,90677.72,Ensino Médio,30,41824.92,3,Autônomo,Alto
+33,36704.19,Pós-Graduação,9,2510.72,5,CLT,Alto
+25,36761.92,Graduação,31,23230.66,1,Empresário,Alto
+55,23667.14,Ensino Médio,33,18980.84,6,CLT,Alto
+29,93640.2,Ensino Médio,8,15829.34,1,Desempregado,Médio
+41,86380.45,Pós-Graduação,16,14284.98,9,Autônomo,Alto
+45,67463.09,Graduação,10,4568.71,7,Desempregado,Alto
+25,104417.04,Pós-Graduação,31,15741.29,7,Autônomo,Alto
+45,100567.02,Pós-Graduação,9,2152.62,0,Empresário,Baixo
+53,78535.44,Pós-Graduação,21,39048.19,7,Autônomo,Alto
+43,106827.13,Ensino Médio,16,19911.39,1,CLT,Médio
+25,40584.12,Ensino Médio,3,22195.19,5,CLT,Alto
+67,31191.96,Graduação,24,44679.73,0,Empresário,Alto
+45,46974.96,Graduação,20,32902.75,4,Autônomo,Alto
+45,25708.69,Pós-Graduação,36,402.96,6,Empresário,Alto
+54,73116.95,Pós-Graduação,37,47158.74,9,CLT,Alto
+58,113660.57,Pós-Graduação,0,11857.22,0,Desempregado,Médio
+53,23934.35,Graduação,24,5380.71,1,Empresário,Alto
+44,32210.99,Ensino Médio,35,38406.41,6,Desempregado,Alto
+34,65219.9,Ensino Médio,16,25023.87,5,Desempregado,Alto
+26,113387.5,Pós-Graduação,23,21688.53,2,Autônomo,Alto
+50,51615.61,Pós-Graduação,1,12475.15,9,Empresário,Alto
+37,70723.48,Pós-Graduação,39,27373.57,1,Desempregado,Alto
+30,24157.29,Pós-Graduação,14,13719.23,9,Desempregado,Alto
+45,34834.32,Graduação,31,45079.15,3,Autônomo,Alto
+65,118663.01,Ensino Médio,38,10760.22,2,Autônomo,Médio
+46,116511.87,Pós-Graduação,5,44217.76,6,CLT,Alto
+30,20494.0,Graduação,0,27970.27,7,Desempregado,Alto
+63,115181.18,Pós-Graduação,22,41424.41,1,CLT,Alto
+52,83911.99,Pós-Graduação,38,35642.3,9,Desempregado,Alto
+23,106791.83,Ensino Médio,16,34834.76,6,CLT,Alto
+35,65473.99,Pós-Graduação,33,16217.29,7,Autônomo,Alto
+68,71559.6,Ensino Médio,28,11694.85,5,Empresário,Médio
+22,68884.66,Ensino Médio,8,10544.31,5,Autônomo,Médio
+64,86686.43,Ensino Médio,12,42859.58,9,CLT,Alto
+42,33965.13,Graduação,5,41021.34,0,CLT,Alto
+19,22997.36,Graduação,5,22028.68,3,Empresário,Alto
+27,50792.99,Ensino Médio,19,6620.23,0,Desempregado,Médio
+47,90468.08,Pós-Graduação,2,19112.61,3,CLT,Médio
+67,40185.35,Ensino Médio,16,30967.17,1,CLT,Alto
+62,87343.24,Pós-Graduação,11,22720.16,4,CLT,Alto
+22,116991.2,Ensino Médio,0,39009.46,9,Empresário,Alto
+50,29390.07,Pós-Graduação,16,49881.14,8,Autônomo,Alto
+18,87260.21,Graduação,2,9556.6,9,CLT,Alto
+35,64375.02,Pós-Graduação,25,22982.54,2,Empresário,Alto
+49,106814.23,Ensino Médio,14,21549.2,7,CLT,Alto
+64,37714.98,Graduação,35,15224.63,2,Desempregado,Alto
+66,89262.6,Pós-Graduação,31,9904.78,5,Empresário,Médio
+28,103811.53,Pós-Graduação,31,3284.61,3,CLT,Médio
+38,114461.42,Pós-Graduação,3,44355.97,7,Empresário,Alto
+43,88324.8,Pós-Graduação,17,20992.43,5,CLT,Alto
+42,69717.48,Pós-Graduação,18,24844.78,7,Autônomo,Alto
+39,81784.72,Graduação,34,45847.1,0,CLT,Alto
+44,106890.5,Graduação,39,38814.52,5,Empresário,Alto
+66,77060.97,Graduação,13,6525.06,0,Desempregado,Médio
+30,23038.71,Graduação,32,28271.0,0,Desempregado,Alto
+50,113094.87,Ensino Médio,13,22112.61,7,Desempregado,Alto
+51,88952.68,Graduação,33,39860.55,6,CLT,Alto
+58,87651.34,Pós-Graduação,3,36211.63,2,Autônomo,Alto
+52,41567.52,Pós-Graduação,23,34520.29,5,CLT,Alto
+18,85888.55,Graduação,28,17027.24,8,Desempregado,Alto
+38,59386.44,Pós-Graduação,18,40248.19,6,Empresário,Alto
+65,85123.3,Graduação,5,2619.56,2,Desempregado,Baixo
+23,30659.3,Pós-Graduação,32,7981.25,5,Empresário,Alto
+45,85784.53,Ensino Médio,39,16781.16,3,Autônomo,Médio
+34,119941.37,Ensino Médio,18,3840.37,2,Empresário,Baixo
+22,24821.2,Graduação,0,11749.71,8,CLT,Alto
+48,117717.42,Graduação,4,41507.55,9,CLT,Alto
+22,60690.8,Graduação,26,47412.58,1,CLT,Alto
+55,107075.35,Pós-Graduação,15,15230.12,0,Empresário,Médio
+20,98238.55,Graduação,5,13225.79,1,CLT,Médio
+40,76701.63,Ensino Médio,39,13994.63,6,CLT,Alto
+54,93844.92,Pós-Graduação,12,13885.95,9,CLT,Alto
+54,107851.56,Graduação,34,1796.51,0,Autônomo,Baixo
+27,60414.03,Pós-Graduação,18,46345.82,5,Empresário,Alto
+27,52703.32,Pós-Graduação,11,10684.91,6,Empresário,Alto
+36,86759.34,Graduação,15,21000.2,8,Desempregado,Alto
+34,100784.59,Pós-Graduação,9,484.34,7,Empresário,Alto
+38,96228.51,Ensino Médio,24,42897.75,5,Autônomo,Alto
+31,99781.36,Ensino Médio,19,36557.87,2,Empresário,Alto
+26,63558.33,Pós-Graduação,30,47337.8,7,Autônomo,Alto
+63,101783.42,Graduação,3,39080.77,6,Autônomo,Alto
+18,32020.91,Pós-Graduação,22,15685.33,2,Empresário,Alto
+68,74448.91,Ensino Médio,1,12393.67,8,Desempregado,Alto
+62,20575.87,Pós-Graduação,21,34885.82,1,CLT,Alto
+30,52458.58,Pós-Graduação,36,18205.64,2,CLT,Médio
+21,56646.15,Ensino Médio,7,28310.75,1,Empresário,Alto
+18,59617.27,Pós-Graduação,6,312.87,0,Empresário,Médio
+66,89546.72,Pós-Graduação,13,3094.29,3,Autônomo,Médio
+57,58855.81,Graduação,2,26768.4,4,Empresário,Alto
+49,64869.36,Graduação,15,28303.58,5,Autônomo,Alto
+51,43754.41,Ensino Médio,18,37572.65,4,Desempregado,Alto
+45,57325.18,Ensino Médio,17,6598.27,0,Empresário,Médio
+48,42726.96,Ensino Médio,15,25659.15,2,CLT,Alto
+25,27319.59,Graduação,7,9722.38,0,CLT,Alto
+56,80344.86,Ensino Médio,32,4659.81,4,Empresário,Médio
+43,86821.28,Ensino Médio,11,20524.79,4,Autônomo,Alto
+51,81949.03,Ensino Médio,10,8166.83,5,CLT,Médio
+20,66349.4,Graduação,4,11089.1,7,Autônomo,Alto
+67,57978.58,Pós-Graduação,26,15877.73,9,Empresário,Alto
+29,106333.36,Ensino Médio,11,12969.42,0,Empresário,Médio
+18,71908.18,Pós-Graduação,16,4379.56,3,CLT,Médio
+61,67918.19,Ensino Médio,5,4495.81,9,Empresário,Alto
+22,22564.21,Pós-Graduação,32,9662.47,0,Desempregado,Alto
+47,54124.78,Graduação,4,2527.96,8,Desempregado,Alto
+47,58019.56,Graduação,27,31322.85,6,CLT,Alto
+34,59882.28,Ensino Médio,13,14366.34,6,Desempregado,Alto
+65,78017.24,Pós-Graduação,4,13987.3,4,Autônomo,Médio
+64,73360.25,Graduação,32,16599.91,6,CLT,Alto
+40,80790.51,Ensino Médio,18,33139.81,1,CLT,Alto
+32,96488.33,Ensino Médio,21,43531.69,3,Autônomo,Alto
+54,101298.57,Graduação,4,37954.35,6,Desempregado,Alto
+38,91812.31,Graduação,1,36376.46,2,Desempregado,Alto
+31,115552.37,Ensino Médio,29,24219.56,1,Desempregado,Alto
+19,21823.26,Pós-Graduação,38,34690.28,9,CLT,Alto
+28,39577.8,Pós-Graduação,3,27638.12,1,CLT,Alto
+68,20756.29,Pós-Graduação,32,10812.53,0,Desempregado,Alto
+56,84747.47,Ensino Médio,12,10429.42,4,Empresário,Médio
+55,109803.05,Graduação,19,14819.6,5,Desempregado,Médio
+51,44348.23,Ensino Médio,6,45540.13,5,Autônomo,Alto
+55,112703.45,Graduação,14,27370.74,8,CLT,Alto
+67,26026.74,Pós-Graduação,22,36695.27,3,Autônomo,Alto
+51,113443.6,Pós-Graduação,13,17327.94,0,Autônomo,Médio
+35,55162.27,Graduação,22,20385.79,5,CLT,Alto
+47,30142.08,Graduação,18,6278.28,4,Empresário,Alto
+32,68587.18,Ensino Médio,28,8564.75,9,Desempregado,Alto
+44,45677.66,Pós-Graduação,19,41367.83,5,Autônomo,Alto
+68,48487.29,Ensino Médio,28,29241.93,2,CLT,Alto
+51,50729.0,Ensino Médio,23,16876.62,1,Autônomo,Médio
+69,100302.59,Ensino Médio,17,40142.56,5,Desempregado,Alto
+55,73916.13,Pós-Graduação,9,12326.0,0,Empresário,Médio
+50,51130.77,Ensino Médio,7,48801.63,6,Empresário,Alto
+41,81033.38,Ensino Médio,25,17240.88,6,Empresário,Alto
+32,91615.07,Ensino Médio,28,16865.55,9,CLT,Alto
+47,47262.4,Ensino Médio,9,15595.6,6,CLT,Alto
+59,61354.91,Ensino Médio,16,6105.58,9,Empresário,Alto
+68,32188.61,Ensino Médio,1,5556.86,0,Desempregado,Alto
+34,38114.93,Pós-Graduação,5,32405.25,3,Desempregado,Alto
+22,88111.79,Ensino Médio,4,43755.9,6,CLT,Alto
+46,38143.83,Graduação,27,39526.03,8,Empresário,Alto
+21,72516.34,Ensino Médio,4,7055.38,4,Desempregado,Médio
+27,90904.63,Ensino Médio,17,27279.11,1,Desempregado,Alto
+34,30687.69,Pós-Graduação,25,5279.58,6,Desempregado,Alto
+27,76731.22,Pós-Graduação,19,2264.73,9,CLT,Alto
+34,45656.28,Graduação,26,32819.29,0,Empresário,Alto
+37,116292.69,Graduação,11,26757.62,6,Autônomo,Alto
+41,68354.56,Pós-Graduação,6,4101.18,5,Empresário,Médio
+22,100599.25,Pós-Graduação,2,1746.96,6,Empresário,Alto
+51,75022.65,Ensino Médio,9,49487.82,9,CLT,Alto
+23,24341.25,Pós-Graduação,33,1501.07,2,Desempregado,Alto
+19,83315.14,Graduação,24,22226.41,2,Desempregado,Alto
+30,115140.33,Ensino Médio,34,25230.95,6,CLT,Alto
+60,80161.18,Graduação,15,5864.01,1,CLT,Baixo
+60,101918.89,Ensino Médio,1,8453.09,0,CLT,Baixo
+65,108420.65,Pós-Graduação,23,17590.25,8,CLT,Alto
+28,42807.98,Graduação,9,38083.79,8,CLT,Alto
+68,41204.48,Ensino Médio,37,25354.12,6,Autônomo,Alto
+64,81098.1,Ensino Médio,21,31895.09,6,Empresário,Alto
+40,61102.85,Pós-Graduação,25,49258.73,2,Empresário,Alto
+33,103986.13,Pós-Graduação,38,38400.27,9,Empresário,Alto
+48,110002.31,Pós-Graduação,26,21718.07,1,Desempregado,Alto
+28,55342.14,Graduação,28,22322.1,6,Autônomo,Alto
+33,43687.06,Ensino Médio,37,30938.6,8,Empresário,Alto
+25,98052.55,Pós-Graduação,19,33268.26,0,Desempregado,Alto
+21,47480.6,Graduação,26,25035.55,3,Autônomo,Alto
+57,102261.43,Graduação,19,32243.06,5,Autônomo,Alto
+21,62373.83,Graduação,18,1176.62,6,Desempregado,Alto
+42,86754.99,Pós-Graduação,19,21481.14,9,Autônomo,Alto
+20,29553.53,Pós-Graduação,34,13946.9,6,Desempregado,Alto
+49,82385.93,Ensino Médio,1,6458.72,9,Empresário,Alto
+20,65176.77,Ensino Médio,29,4977.33,1,Desempregado,Médio
+44,78660.85,Pós-Graduação,33,30159.61,3,Autônomo,Alto
+46,36801.42,Graduação,21,26180.03,4,Empresário,Alto
+49,93687.37,Graduação,2,12679.21,0,Empresário,Médio
+67,106279.71,Graduação,5,23547.5,0,CLT,Alto
+68,41673.98,Ensino Médio,14,24611.62,9,CLT,Alto
+36,29571.46,Graduação,26,9750.45,2,Autônomo,Alto
+38,22363.86,Ensino Médio,9,32604.65,9,Desempregado,Alto
+22,84197.15,Ensino Médio,8,39045.97,2,Desempregado,Alto
+35,80709.4,Graduação,32,39573.18,7,Autônomo,Alto
+45,74669.74,Graduação,31,30123.49,8,Empresário,Alto
+59,43194.71,Pós-Graduação,5,25581.93,0,Autônomo,Alto
+39,59090.6,Pós-Graduação,35,3050.36,1,Autônomo,Médio
+38,79447.63,Graduação,1,14391.56,9,Empresário,Alto
+23,69676.69,Ensino Médio,28,4663.57,1,Desempregado,Médio
+18,118778.55,Ensino Médio,3,48191.16,3,Autônomo,Alto
+22,33643.98,Ensino Médio,0,6754.01,1,Desempregado,Alto
+58,89514.46,Ensino Médio,18,7588.77,6,Autônomo,Alto
+29,60431.88,Ensino Médio,25,44478.83,8,Empresário,Alto
+43,62819.96,Pós-Graduação,24,47196.41,6,Empresário,Alto
+63,91759.78,Graduação,9,38291.45,5,CLT,Alto
+51,89243.62,Pós-Graduação,14,270.25,9,Empresário,Alto
+66,119125.6,Ensino Médio,21,67.31,0,CLT,Baixo
+31,32839.43,Ensino Médio,20,18905.04,9,Autônomo,Alto
+43,30410.96,Ensino Médio,21,7169.77,8,Desempregado,Alto
+62,92433.88,Ensino Médio,35,919.31,4,Empresário,Médio
+44,77838.69,Graduação,33,23203.33,4,Empresário,Alto
+26,47416.07,Ensino Médio,29,47153.09,5,Empresário,Alto
+43,27941.94,Graduação,24,16190.98,8,Autônomo,Alto
+64,28565.82,Ensino Médio,27,33057.03,7,CLT,Alto
+39,109419.09,Graduação,0,32611.77,7,Autônomo,Alto
+64,39186.73,Pós-Graduação,3,12554.01,7,Desempregado,Alto
+47,52337.16,Ensino Médio,6,32521.26,0,Autônomo,Alto
+60,42665.64,Graduação,8,10616.7,0,Desempregado,Médio
+65,55499.63,Pós-Graduação,35,6100.37,7,Empresário,Alto
+34,26942.38,Ensino Médio,18,35069.16,4,Desempregado,Alto
+43,71905.98,Ensino Médio,0,5672.04,8,Desempregado,Alto
+53,26761.26,Ensino Médio,9,49845.46,1,CLT,Alto
+18,100035.65,Graduação,35,9172.62,8,Desempregado,Alto
+25,43371.21,Graduação,8,29707.09,7,Desempregado,Alto
+66,74001.19,Pós-Graduação,31,20568.73,8,Autônomo,Alto
+52,108007.91,Graduação,31,6319.32,3,Empresário,Médio
+69,85087.74,Graduação,5,1392.2,0,Autônomo,Baixo
+32,73295.78,Ensino Médio,37,31136.61,0,Autônomo,Alto
+64,52433.38,Ensino Médio,16,40337.88,4,Empresário,Alto
+39,53300.19,Ensino Médio,9,42100.78,1,Empresário,Alto
+31,86948.7,Ensino Médio,26,24135.67,7,Desempregado,Alto
+43,119413.94,Ensino Médio,34,38872.77,9,Desempregado,Alto
+45,86183.92,Ensino Médio,20,33642.36,4,CLT,Alto
+40,75778.34,Ensino Médio,24,36212.73,4,Autônomo,Alto
+31,93065.05,Pós-Graduação,27,24629.95,1,Empresário,Alto
+41,66520.56,Pós-Graduação,14,31670.59,6,Desempregado,Alto
+19,26014.23,Pós-Graduação,3,40276.3,7,Empresário,Alto
+62,76229.68,Pós-Graduação,28,19894.21,9,Desempregado,Alto
+43,115762.53,Ensino Médio,8,40298.95,0,CLT,Alto
+31,37530.29,Pós-Graduação,26,29600.84,1,CLT,Alto
+68,89000.49,Ensino Médio,25,8295.05,9,Empresário,Alto
+24,40093.37,Pós-Graduação,18,1234.21,3,CLT,Médio
+20,73582.77,Graduação,27,18137.68,4,Empresário,Médio
+64,29667.64,Pós-Graduação,16,27334.82,1,Desempregado,Alto
+40,65037.09,Pós-Graduação,19,41991.02,0,Autônomo,Alto
+63,95616.33,Ensino Médio,39,6374.28,8,CLT,Alto
+60,54757.15,Pós-Graduação,38,40010.32,0,Desempregado,Alto
+64,86491.17,Graduação,22,43150.45,3,Autônomo,Alto
+62,99545.0,Ensino Médio,31,7534.37,1,Autônomo,Baixo
+35,112717.78,Ensino Médio,32,42579.72,3,Autônomo,Alto
+55,43464.21,Pós-Graduação,4,49572.68,7,Desempregado,Alto
